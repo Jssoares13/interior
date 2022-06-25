@@ -1,0 +1,36 @@
+@charset "utf-8";
+@media screen and (max-width:760px){
+          
+    headear{
+        flex-direction:column;
+        width: 80%;
+    }
+   
+    main{
+        flex-direction:column;
+    }
+    h2{
+        font-size: 30px;
+    }
+    form{
+        width:50%;
+    }
+
+    input{
+        align-self:center;
+        width: 250px;
+        
+    }
+     
+.title{
+  
+    width: 54%;
+    font-size: 16px;
+
+}
+
+.men{
+    width: 35%;
+}
+
+}
